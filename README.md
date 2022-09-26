@@ -9,7 +9,6 @@ ALPACA_SECRET_KEY = "INSERT HERE"
 BASE_URL = "https://paper-api.alpaca.markets"
 
 2. Enter into your virtual environment
-   conda activate dev
-   pip install the libraries and dependencies
+   conda activate dev and pip install the libraries and dependencies
 
 3. Run it.
