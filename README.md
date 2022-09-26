@@ -1,5 +1,7 @@
 # Algo_Project
 
+Welcome to the project.
+
 1. Create a .env file in the starter project folder and place your api key and api secret key as follows:
 
 ALPACA_API_KEY = "INSERT HERE"
